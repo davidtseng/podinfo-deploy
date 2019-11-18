@@ -1,0 +1,1 @@
+{"jobID":"2f31be1d-7ccb-c53a-8eea-460dedda333f","spec":{"type":"policy","cause":{"Message":"","User":"David T \u003cdaviet99@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
